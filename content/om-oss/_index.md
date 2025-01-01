@@ -13,7 +13,7 @@ Benex er spesialisert på å hjelpe legepraksiser med å optimalisere deres drif
 
 ## Møt Ben - Din Rådgiver
 
-![Ben](/images/ben-about-us.jpg)
+![Ben](/benex/images/ben-about-us.jpg)
 
 Ben har lang erfaring fra helsesektoren, med spesiell kompetanse innen salg og implementering av medisinske løsninger til sykehus og helseinstitusjoner. Gjennom årene har han opparbeidet seg en dyp forståelse for helsesektorens unike behov og utfordringer.
 
